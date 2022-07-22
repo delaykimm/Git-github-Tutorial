@@ -17,7 +17,7 @@ cd [repository directory]
 ```
 아래 부분에 마음껏 글을 적어 보세요
 
-
+Hello! I'm Jiyun!
 
 위 부분에 마음껏 글을 적어 보세요
 ```
